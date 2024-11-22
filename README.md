@@ -21,3 +21,7 @@ The **Flappy Bird Game** serves as an engaging method to improve cognitive funct
 - **Community Engagement:** Encouraging social interaction through leaderboards and online challenges.  
 - **Cognitive Development:** Making cognitive training accessible and enjoyable for all ages.
 
+![Screenshot (446)](https://github.com/user-attachments/assets/709bb65b-05e7-4e88-8f6a-51ec4225931a)
+
+
+
